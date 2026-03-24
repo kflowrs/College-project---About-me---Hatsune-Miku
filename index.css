@@ -1,0 +1,17 @@
+section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.perfil {
+    background-color: aqua;
+    display: inline-flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.perfil img {
+    width: 230px;
+}
